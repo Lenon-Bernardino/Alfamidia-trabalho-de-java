@@ -1,12 +1,4 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+TÍTULO DO PROJETO: Trabalho para o processo seletivo da empresa Alfamídia.
+OBJETIVO DO PROJETO: Demonstrar conhecimentos de Java.
+COMO INICIAR O PROJETO: Compilando as classes e executando a class main.java
+AUTORES: Lenon Saturnino Bernardino
